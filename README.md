@@ -5,8 +5,8 @@ Browse news by category and discover more about the stories that matter to you.
 You can use the app to bookmark and share information with your friends on social media.
 
 ## Use
-UIKit, iOS 15+, CoreData, SDWebImage, Coordinators, creating UI programmatically.
-
+iOS 15+, UIKit, Custom views, CoreData, SDWebImage, Coordinators, creating UI programmatically.
+ 
 ## Features
 1. User can view the five breaking news of the world.
 2. User can view general news and new's by categories, such as: entertainment, business, health, sports, technology.
@@ -18,9 +18,8 @@ UIKit, iOS 15+, CoreData, SDWebImage, Coordinators, creating UI programmatically
 
 ## Preview
 
-![News](https://github.com/vikaani/ToDo/blob/main/Preview/News.png) | ![FavoriteArticles](https://github.com/vikaani/ToDo/blob/main/Preview/FavoriteArticles.png) | ![SearchArticles](https://github.com/vikaani/ToDo/blob/main/Preview/SearchArticles.png)  |
-    ![WebArticleDetails](https://github.com/vikaani/ToDo/blob/main/Preview/WebArticleDetails.png) |
-
+![News](https://github.com/vikaani/NewsClient/blob/main/Preview/News.png) | ![FavoriteArticles](https://github.com/vikaani/NewsClient/blob/main/Preview/FavoriteArticles.png) | ![SearchArticles](https://github.com/vikaani/NewsClient/blob/main/Preview/SearchArticles.png) | ![WebArticleDetails](https://github.com/vikaani/NewsClient/blob/main/Preview/WebArticleDetails.png) |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+
 
 
